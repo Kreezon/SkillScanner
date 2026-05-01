@@ -3,7 +3,7 @@
 An AI-powered Applicant Tracking System (ATS) Resume Analyzer built
 using **Flask** that evaluates resumes against job descriptions,
 calculates match scores, identifies missing keywords, and provides
-intelligent improvement suggestions using the **Google Gemini API**.
+intelligent improvement suggestions using the **GROQ API**.
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ for seamless user experience.
 
 -   **Backend:** Python, Flask\
 -   **Frontend:** HTML, CSS, JavaScript\
--   **AI Integration:** Google Gemini API\
+-   **AI Integration:** GROQ API\
 -   **Machine Learning:** Scikit-learn\
 -   **NLP Techniques:** Text preprocessing, keyword extraction\
 -   **PDF Processing:** Resume text extraction libraries\
